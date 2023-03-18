@@ -8,22 +8,23 @@ y body {
   border: 3px solid blue
   ;
   /* CHANGE ME */
-  padding: 30px;
-  margin: 100px;
+  padding: 32px;
+  margin: 12px;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
+
 
 .three {
   background: peachpuff;
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 30px;
+  margin-left: 1080px;
 }
