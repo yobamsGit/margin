@@ -11,9 +11,8 @@ div {
 
 .card {
   width: auto;
-  padding: 8px
   background: #fff;
-}
+  }
 
 .title {
   background: #e3f4ff;
@@ -30,4 +29,5 @@ div {
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
 }
