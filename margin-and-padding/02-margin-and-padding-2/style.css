@@ -1,15 +1,18 @@
 body {
-  background: yellow;
+  background: #eee;
   font-family: sans-serif;
 }
 
 div {
-  border: 7px solid white;
-}
+  padding: 8px;
+  border: 5px solid white;
+  margin: 8px;
+  }
+
 .card {
   width: 400px;
   background: #fff;
-  margin: 8px auto;
+  margin: auto;
 }
 
 .title {
