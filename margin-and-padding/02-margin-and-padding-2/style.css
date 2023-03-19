@@ -10,9 +10,9 @@ div {
   }
 
 .card {
-  width: 400px;
+  width: auto;
+  padding: 8px
   background: #fff;
-  margin: auto;
 }
 
 .title {
